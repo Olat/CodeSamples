@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Olat6\OneDrive\Desktop\Testing\VectorForm\Maze\main.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Room.cpp
+  Generating Code...
+  Maze.vcxproj -> C:\Users\Olat6\OneDrive\Desktop\Testing\VectorForm\x64\Debug\Maze.exe
