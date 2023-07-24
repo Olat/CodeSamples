@@ -19,7 +19,7 @@ Code Test - This was a programming test that had 3 parts.
   *  Maze Room Builder and Solver.
 
 Code Test 2 - Programming test with a Binary Tree
-  Binary Tree Parser , and somne other small things
+  * Binary Tree Parser , and some other small things
 
 Test - Another Programming Test
-  Create and maintain and non contigous memory buffer.
+  * Create and maintain and non contigous memory buffer.
