@@ -14,9 +14,9 @@ This is some code from that Scenario, which was well recieved by Canon. I can gi
 out of the office at a workshop directly with members from the Canon Team.
 
 Code Test - This was a programming test that had 3 parts.
-  String Sorting
-  Unique Digit Detection
-  Maze Room Builder and Solver.
+  * String Sorting
+  * Unique Digit Detection
+  *  Maze Room Builder and Solver.
 
 Code Test 2 - Programming test with a Binary Tree
   Binary Tree Parser , and somne other small things
